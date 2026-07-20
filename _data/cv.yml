@@ -21,8 +21,7 @@ cv:
         location: Beijing, China
         area: Statistics
         studyType: PhD
-        start_date: 2022
-        end_date: 2027
+        start_date: "2022-09"
         highlights:
           - Advisor: Song Xi Chen.
 
