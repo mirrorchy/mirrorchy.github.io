@@ -1,7 +1,7 @@
 cv:
   name: Hanyue Chen
   label: Doctoral Student
-  email: ""
+  email: ypchy@pku.edu.cn
   location: Beijing, China
   image: img/photo.jpg
   summary: Doctoral student at the Center for Statistical Science, Peking University, advised by Song Xi Chen. Her recent work focuses on climate-change detection and attribution, including optimal fingerprinting and valid confidence intervals.
@@ -22,7 +22,7 @@ cv:
         area: Statistics
         studyType: PhD
         start_date: 2022
-        end_date: Present
+        end_date: 2027
         highlights:
           - Advisor: Song Xi Chen.
 
