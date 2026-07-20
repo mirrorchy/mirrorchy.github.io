@@ -3,7 +3,7 @@ cv:
   label: Doctoral Student
   email: ypchy@pku.edu.cn
   location: Beijing, China
-  image: img/photo.jpg
+  image: photo.jpg
   summary: Doctoral student at the Center for Statistical Science, Peking University, advised by Song Xi Chen. Her recent work focuses on climate-change detection and attribution, including optimal fingerprinting and valid confidence intervals.
 
   social_networks: []

@@ -6,7 +6,7 @@ subtitle: Doctoral student, Center for Statistical Science, Peking University.
 
 profile:
   align: right
-  image: img/photo.jpg
+  image: photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Advisor: Song Xi Chen</p>
