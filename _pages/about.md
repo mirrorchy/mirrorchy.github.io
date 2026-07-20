@@ -28,5 +28,3 @@ latest_posts:
 ---
 
 Hanyue Chen is a doctoral student at the Center for Statistical Science, Peking University, advised by Song Xi Chen. Her recent work centers on climate-change detection and attribution, including optimal fingerprinting and valid confidence intervals for climate-change studies.
-
-Her Chen Group publication record includes [A Statistical Review on the Optimal Fingerprinting Approach in Climate Change Studies](https://songxichen.com/index.php/Publication) and [Valid confidence intervals for detection and attribution in climate change studies](https://songxichen.com/index.php/Publication).
