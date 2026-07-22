@@ -4,7 +4,7 @@ title: 首页
 permalink: /zh/
 header_name: 陈涵玥
 subtitle: 北京大学统计科学中心博士研究生
- 
+
 profile:
   align: right
   image: photo.jpg
@@ -30,7 +30,7 @@ latest_posts:
 **教育经历**
 
 - 北京大学，元培学院
-  
+
   数据科学与大数据技术理学学士
 
 **研究方向**

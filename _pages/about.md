@@ -29,7 +29,7 @@ She is also interested in developing reliable and scalable statistical and machi
 **Education**
 
 - Peking University, Yuanpei College
-  
+
   B.S. of Science in Data Science and Big Data Technology
 
 **Research Interests**

@@ -79,15 +79,18 @@
         {% endif %}
         {%- if author_is_self -%}
           <span class="self-author font-weight-bold" style="font-weight: 900 !important; display: inline; color: inherit;">
-            {{- author.first }} {{ author_last_html -}}
+            {{- author.first }}
+            {{ author_last_html -}}
           </span>
         {%- else -%}
           {%- if coauthor_url -%}
             <a href="{{ coauthor_url }}">
-              {{- author.first }} {{ author_last_html -}}
+              {{- author.first }}
+              {{ author_last_html -}}
             </a>
           {%- else -%}
-            {{- author.first }} {{ author_last_html -}}
+            {{- author.first }}
+            {{ author_last_html -}}
           {% endif %}
         {%- endif -%}
       {% endfor %}

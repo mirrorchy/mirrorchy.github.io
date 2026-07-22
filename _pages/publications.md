@@ -9,7 +9,6 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-
 <style>
   .publications .author .self-author {
     font-weight: 800 !important;
