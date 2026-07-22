@@ -1,30 +1,46 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: Doctoral student, Center for Statistical Science, Peking University.
+subtitle: PhD candidate, Center for Statistical Science, Peking University
 
 profile:
   align: right
   image: photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Advisor: Song Xi Chen</p>
     <p>Center for Statistical Science</p>
     <p>Peking University, Beijing, China</p>
+    <p>Email: ypchy@pku.edu.cn</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: false
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Hanyue Chen is a doctoral student at the Center for Statistical Science, Peking University, advised by Song Xi Chen. Her recent work centers on climate-change detection and attribution, including optimal fingerprinting and valid confidence intervals for climate-change studies.
+Hanyue Chen is a PhD candidate at the [Center for Statistical Science](https://www.stat-center.pku.edu.cn/) at Peking University, supervised by Professor [Song Xi Chen](https://www.songxichen.com/). Her research interests include climate-change detection and attribution, statistical inference for spatiotemporally dependent data, and interdisciplinary research at the intersection of statistics and environmental science.
+She is also interested in developing reliable and scalable statistical and machine-learning methods for complex scientific data.
+
+**Education**
+
+- Peking University, Yuanpei College
+  
+  B.S. of Science in Data Science and Big Data Technology
+
+**Research Interests**
+
+- AI for Science
+- Climate-change detection and attribution
+- High-dimensional spatiotemporal data analysis
+- Multi-source data assimilation
+
+**Links**
+
+- [Publications](/publications/)
+- [CV](/cv/)
+- [Email](mailto:ypchy@pku.edu.cn)

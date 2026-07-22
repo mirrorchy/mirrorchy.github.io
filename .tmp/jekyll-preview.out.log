@@ -1,0 +1,15 @@
+Configuration file: D:/Github/mirrorchy.github.io/_config.yml
+            Source: D:/Github/mirrorchy.github.io
+       Destination: D:/Github/mirrorchy.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+Terser: Minifying D:/Github/mirrorchy.github.io/test/style_contract.js
+Terser: Minifying D:/Github/mirrorchy.github.io/test/visual/distill.spec.js
+Terser: Minifying D:/Github/mirrorchy.github.io/test/visual/helpers.js
+Terser: Minifying D:/Github/mirrorchy.github.io/test/visual/interactions.spec.js
+Terser: Minifying D:/Github/mirrorchy.github.io/test/visual/parity.spec.js
+Terser: Minifying D:/Github/mirrorchy.github.io/test/visual/playwright.config.js
+       Imagemagick: Disabled in site.config
+       Jekyll Feed: Generating feed for posts
+         AutoPages: Disabled/Not configured in site.config.
+        Pagination: Complete, processed pagination page(s)
