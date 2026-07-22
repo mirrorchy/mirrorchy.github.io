@@ -13,3 +13,26 @@ Terser: Minifying D:/Github/mirrorchy.github.io/test/visual/playwright.config.js
        Jekyll Feed: Generating feed for posts
          AutoPages: Disabled/Not configured in site.config.
         Pagination: Complete, processed pagination page(s)
+        AlImgTools: Successfully copied lightbox2-adapter.css from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/al_img_tools-1.0.2/lib/assets/al_img_tools/css/lightbox2-adapter.css to D:/Github/mirrorchy.github.io/_site/assets/al_img_tools/css/lightbox2-adapter.css
+        AlImgTools: Successfully copied lightbox2-adapter.js from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/al_img_tools-1.0.2/lib/assets/al_img_tools/js/lightbox2-adapter.js to D:/Github/mirrorchy.github.io/_site/assets/al_img_tools/js/lightbox2-adapter.js
+        AlImgTools: Successfully copied venobox-setup.js from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/al_img_tools-1.0.2/lib/assets/al_img_tools/js/venobox-setup.js to D:/Github/mirrorchy.github.io/_site/assets/al_img_tools/js/venobox-setup.js
+        AlImgTools: Successfully copied zoom.js from C:/Ruby34-x64/lib/ruby/gems/3.4.0/gems/al_img_tools-1.0.2/lib/assets/al_img_tools/js/zoom.js to D:/Github/mirrorchy.github.io/_site/assets/al_img_tools/js/zoom.js
+                    done in 3985.596 seconds.
+ Auto-regeneration: enabled for 'D:/Github/mirrorchy.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2026-07-23 03:33:42
+                    _pages/about_zh.md
+Terser: Minifying D:/Github/mirrorchy.github.io/test/style_contract.js
+Terser: Minifying D:/Github/mirrorchy.github.io/test/visual/distill.spec.js
+Terser: Minifying D:/Github/mirrorchy.github.io/test/visual/helpers.js
+Terser: Minifying D:/Github/mirrorchy.github.io/test/visual/interactions.spec.js
+Terser: Minifying D:/Github/mirrorchy.github.io/test/visual/parity.spec.js
+Terser: Minifying D:/Github/mirrorchy.github.io/test/visual/playwright.config.js
+       Imagemagick: Disabled in site.config
+       Jekyll Feed: Generating feed for posts
+         AutoPages: Disabled/Not configured in site.config.
+        Pagination: Complete, processed pagination page(s)
+                    ...done in 10.2720141 seconds.
+                    

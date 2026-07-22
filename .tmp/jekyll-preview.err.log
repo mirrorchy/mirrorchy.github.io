@@ -8,3 +8,11 @@ You can add fiddle to your Gemfile or gemspec to silence this warning.
 [33m     al_folio_core: set `al_folio.compat.bootstrap.enabled: true` or run `bundle exec al-folio upgrade audit`[0m
 [33m     al_folio_core:  _layouts/bib.liquid:97[0m
 [33m        Pagination: Is enabled, but I couldn't find any pagination page. Skipping pagination. Pages must have 'pagination: enabled: true' in their front-matter for pagination to work.[0m
+[NbConvertApp] Converting notebook C:/Users/CHY/AppData/Local/Temp/jekyll-jupyter-notebook20260723-38040-tm8pbp.ipynb to html
+  Please add the following to your Gemfile to avoid polling for changes:
+    gem 'wdm', '>= 0.1.0'
+[33m     al_folio_core: legacy bootstrap-marked content detected while compatibility is disabled[0m
+[33m     al_folio_core: set `al_folio.compat.bootstrap.enabled: true` or run `bundle exec al-folio upgrade audit`[0m
+[33m     al_folio_core:  _layouts/bib.liquid:97[0m
+[33m        Pagination: Is enabled, but I couldn't find any pagination page. Skipping pagination. Pages must have 'pagination: enabled: true' in their front-matter for pagination to work.[0m
+[NbConvertApp] Converting notebook C:/Users/CHY/AppData/Local/Temp/jekyll-jupyter-notebook20260723-38040-rub0ji.ipynb to html
